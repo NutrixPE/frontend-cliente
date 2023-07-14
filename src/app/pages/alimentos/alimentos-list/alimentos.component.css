@@ -1,0 +1,10 @@
+.favorito {
+    color: rgb(150, 148, 148);
+    display: flex;
+    align-items: center;
+}
+
+.favorito:hover {
+    cursor: pointer;
+    color: red !important;
+}
